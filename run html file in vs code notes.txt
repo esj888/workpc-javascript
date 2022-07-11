@@ -1,0 +1,15 @@
+
+    Directory: C:\javascript-test
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          7/1/2022   3:56 PM            226 arrow.js
+-a----          7/5/2022   8:32 AM            263 arrow2.js
+-a----          7/5/2022   9:35 AM            474 oos.js
+-a----          7/5/2022   8:25 AM            272 run javascript in vs code notes.txt
+-a----          7/5/2022  10:05 AM            528 script.html
+
+
+PS C:\javascript-test> start script.html
+PS C:\javascript-test> 

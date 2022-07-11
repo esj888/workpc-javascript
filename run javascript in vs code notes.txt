@@ -1,0 +1,9 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+Loading personal and system profiles took 727ms.
+PS C:\javascript-test> node arrow.js
+[ 8, 6, 7, 9 ]
+PS C:\javascript-test> 
